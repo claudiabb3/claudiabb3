@@ -1,5 +1,4 @@
-<h1 align="center">Hola, soy Claudia Boboc 👋</h1>
-
+<h1 align="center">Hola, soy <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="claudia-boboc-687ab2152" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/claudia-boboc-687ab2152?trk=profile-badge">Claudia Boboc</a></div> 👋</h1>
 <p align="center">
   Tras varios años como gestora de oficina técnica de producción, he podido observar de primera mano cómo una buena solución de software puede facilitar y mejorar el trabajo diario. Esta experiencia, junto a mi inquietud por aprender, me llevó a compaginar mi trabajo con la formación en desarrollo de aplicaciones multiplataforma.
 </p>
