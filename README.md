@@ -57,7 +57,7 @@
   </a>
 </p>
 <p align="Center">
-  <strong>GestionGastos</strong>
+  <strong>GastosApp</strong>
 </p>
 <p align="Center">
   <a href="https://drive.google.com/file/d/1k9aN-CrbefeqL0pJH8zdLRopyAUbeiQg/view?usp=drive_link" target="_blank">
