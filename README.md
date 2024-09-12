@@ -46,9 +46,12 @@
 </table>
 <h2>Proyectos</h2>
 <p align="center">
-  Aquí puedes ver algunos de mis proyectos más recientes:
+  Un clic en la imagen para poder ver la funcionalidad de mis proyecto 😊
 </p>
-<p align="center">
+<p align="Left">
+  <strong>EpiGestion</strong>
+</p>
+<p align="Left">
   <a href="https://drive.google.com/file/d/1DOGlRMGuAQoNVSKxgB9O-6q_XNtklUjU/view?usp=drive_link" target="_blank">
     <img src="https://github.com/user-attachments/assets/709d7b24-4ea6-4be1-8eb2-4f6b9f0fd3a7" alt="Video de Proyecto" width="300"/>
   </a>
