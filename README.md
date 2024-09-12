@@ -46,14 +46,21 @@
 </table>
 <h2>Proyectos</h2>
 <p align="center">
-  Un clic en la imagen para poder ver la funcionalidad de mis proyecto 😊
+  Dale clic en la imagen para poder ver la funcionalidad del proyecto 😊
 </p>
-<p align="Left">
+<p align="Center">
   <strong>EpiGestion</strong>
 </p>
-<p align="Left">
+<p align="Center">
   <a href="https://drive.google.com/file/d/1DOGlRMGuAQoNVSKxgB9O-6q_XNtklUjU/view?usp=drive_link" target="_blank">
     <img src="https://github.com/user-attachments/assets/709d7b24-4ea6-4be1-8eb2-4f6b9f0fd3a7" alt="Video de Proyecto" width="300"/>
   </a>
 </p>
-
+<p align="Center">
+  <strong>GestionGastos</strong>
+</p>
+<p align="Center">
+  <a href="https://drive.google.com/file/d/1k9aN-CrbefeqL0pJH8zdLRopyAUbeiQg/view?usp=drive_link" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3b815af4-0545-4f92-94c2-19db56c9de5e" alt="Video de Proyecto" width="300"/>
+  </a>
+</p>
