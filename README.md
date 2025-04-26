@@ -53,7 +53,7 @@
 </p>
 <p align="Center">
   <a href="https://drive.google.com/file/d/1DOGlRMGuAQoNVSKxgB9O-6q_XNtklUjU/view?usp=drive_link" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2b901915-fc5c-429a-8b02-403806867b2a)alt="Video de Proyecto" width="300"/>
+    <img src="https://github.com/user-attachments/assets/2b901915-fc5c-429a-8b02-403806867b2a" alt="Video de Proyecto" width="300"/>
 
   </a>
 </p>
